@@ -12,3 +12,5 @@ psql -A -t -F'	' cosmoss -c "select 'cosmoss_PpV1.6' as db, accession as db_obje
 
 perl -e 'while (<>){ chomp; @a=split/\t/; $a[0]=~s/V6\.\d+/V6/; $l{$a[0]}{$a[1]}++;} print "$_\t",join(", ",sort keys %{$l{$_}}),"\n" foreach sort keys %l;' $NAME.annot > $NAME.map
 
+cut -f1,3 $NAME.annot | sort -u > $NAME.descriptions.txt
+
