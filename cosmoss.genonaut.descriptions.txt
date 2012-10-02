@@ -2164,8 +2164,8 @@ Pp1s12_346V6.2	F21E1.170; expressed protein [Arabidopsis thaliana]
 Pp1s12_346V6.3	F21E1.170; expressed protein [Arabidopsis thaliana]
 Pp1s12_347V6.1	coronitine insensitive 1
 Pp1s123_47V6.1	F23H24.6; expressed protein [Arabidopsis thaliana]
-Pp1s12_347V6.2	coronitine insensitive 1
 Pp1s123_47V6.2	F4B12.2; expressed protein [Arabidopsis thaliana]
+Pp1s12_347V6.2	xfb1 gene for F-box protein XFB1
 Pp1s12_349V6.1	cytochrome b5
 Pp1s123_49V6.1	inositol monophosphatase
 Pp1s12_349V6.2	cytochrome b5
@@ -6560,7 +6560,7 @@ Pp1s18_41V6.2	amp dependent
 Pp1s18_41V6.3	amp dependent
 Pp1s18_41V6.4	amp dependent
 Pp1s18_41V6.5	amp dependent
-Pp1s184_21V6.1	auxin-responsive protein
+Pp1s184_21V6.1	iaa1b gene for auxin-responsive protein IAA1B
 Pp1s184_24V6.1	
 Pp1s184_35V6.1	lipopolysaccharide-binding protein
 Pp1s184_36V6.1	lob domain-containing
@@ -8523,7 +8523,7 @@ Pp1s217_63V6.1	hypothetical protein [Dictyostelium discoideum]
 Pp1s217_69V6.1	
 Pp1s21_76V6.1	atp-dependent rna helicase
 Pp1s217_70V6.1	cyclase dehydrase
-Pp1s217_71V6.1	actin-depolymerizing factor
+Pp1s217_71V6.1	adf gene for actin-depolymerizing factor protein ADF
 Pp1s217_73V6.1	transferring glycosyl groups
 Pp1s217_75V6.1	
 Pp1s217_77V6.1	transferring glycosyl
@@ -12991,7 +12991,7 @@ Pp1s31_189V6.1	MUG13.15; expressed protein [Arabidopsis thaliana]
 Pp1s3_118V6.1	viviparous 1
 Pp1s31_190V6.1	transcription factor apfi
 Pp1s31_199V6.1	metal tolerance protein
-Pp1s3_119V6.1	f-box family protein
+Pp1s3_119V6.1	xfb2 gene for F-box protein XFB2
 Pp1s3_11V6.1	pglct (plastidic glc translocator) carbohydrate transmembrane transporter sugar:hydrogen symporter
 Pp1s31_1V6.1	similar to dual-specificity phosphatase laforin [Cyanidioschyzon merolae]
 Pp1s3_11V6.2	pglct (plastidic glc translocator) carbohydrate transmembrane transporter sugar:hydrogen symporter
@@ -17204,7 +17204,7 @@ Pp1s44_193V6.3	5-enolpyruvylshikimate-3-phosphate synthase
 Pp1s44_193V6.4	5-enolpyruvylshikimate-3-phosphate synthase
 Pp1s44_194V6.1	glycoside hydrolase family 3 domain protein
 Pp1s44_195V6.1	
-Pp1s44_198V6.1	f-box family protein
+Pp1s44_198V6.1	afb2 gene for auxin signalling f-box protein AFB2
 Pp1s44_207V6.1	
 Pp1s44_20V6.1	
 Pp1s442_10V6.1	MEB5.8; expressed protein [Arabidopsis thaliana]
@@ -20483,7 +20483,7 @@ Pp1s66_199V6.1
 Pp1s66_199V6.2	
 Pp1s66_199V6.3	
 Pp1s6_61V6.1	f-box and wd40 domain
-Pp1s66_200V6.1	transcription factor
+Pp1s66_200V6.1	gamyb1 gene for gibberellin MYB transcription factor protein GAMYB1
 Pp1s66_209V6.1	cysteine proteinase inhibitor
 Pp1s66_209V6.2	cysteine proteinase inhibitor
 Pp1s66_213V6.1	hypothetical protein, conserved [Cyanidioschyzon merolae]
