@@ -14,7 +14,12 @@ cat temp $NAME.gaf2> temp2
 mv temp2 $NAME.gaf2
 rm temp
 
+psql -A -F'	' cosmoss -c "select accession,features.annotator_id,coslink.csid, features.date,value, source from features left join coslink using (feature_id) where features.active=1 and version_id in (6,4,5) and term_id in (1) and features.status != 2 and ((coslink.active=1 and coslink.status !=2) or (coslink.feature_id is NULL)) group by accession,features.annotator_id,coslink.csid, features.date,value, source order by date desc;" |grep -v 'rows)' > $NAME.gene_name.txt
+psql -A  -F'	' cosmoss -c "select accession,features.annotator_id,coslink.csid, features.date,value, source from features left join coslink using (feature_id) where features.active=1 and version_id in (6,4,5) and term_id in (2) and features.status != 2 and ((coslink.active=1 and coslink.status !=2) or (coslink.feature_id is NULL)) and value !~ '^Phypa|all_Phypa|BA|NP' group by accession,features.annotator_id,coslink.csid, features.date,value, source order by date desc;" |grep -v 'rows)' > $NAME.aliases.txt
+psql -A  -F'	' cosmoss -c "select accession,features.annotator_id,coslink.csid, features.date,value, source from features left join coslink using (feature_id) where features.active=1 and version_id in (6,4,5) and term_id in (10) and features.status != 2 and ((coslink.active=1 and coslink.status !=2) or (coslink.feature_id is NULL)) group by accession,features.annotator_id,coslink.csid, features.date,value, source order by date desc;" |grep -v 'rows)' > $NAME.protein_name.txt
+psql -A  -F'	' cosmoss -c "select accession,features.annotator_id,coslink.csid, features.date,value, source from features left join coslink using (feature_id) where features.active=1 and version_id in (6,4,5) and term_id in (3) and features.status != 2 and ((coslink.active=1 and coslink.status !=2) or (coslink.feature_id is NULL)) group by accession,features.annotator_id,coslink.csid, features.date,value, source order by date desc;" |grep -v 'rows)' > $NAME.description.txt
+
 perl -e 'while (<>){ chomp; @a=split/\t/; $a[0]=~s/V6\.\d+/V6/; $l{$a[0]}{$a[1]}++;} print "$_\t",join(", ",sort keys %{$l{$_}}),"\n" foreach sort keys %l;' $NAME.annot > $NAME.map
 
-cut -f1,3 $NAME.annot | sort -u > $NAME.descriptions.txt
+#cut -f1,3 $NAME.annot | sort -u > $NAME.descriptions.txt
 
