@@ -2,7 +2,7 @@
 
 NAME=cosmoss.genonaut
 
-#perl -MDate::Simple -e '$d=Date::Simple->new(Date::Simple::today()); $y=$d->year(); open(F, "RELEASE"); $S=<F>; ($r) = ($S=~/release $y\.(\d+)/); open(F, ">RELEASE"); print F "cosmoss.org genonaut annotation release $y.",++$r," released on ", Date::Simple::today(),"\n";'
+perl -MDate::Simple -e '$d=Date::Simple->new(Date::Simple::today()); $y=$d->year(); open(F, "RELEASE"); $S=<F>; ($r) = ($S=~/release $y\.(\d+)/); open(F, ">RELEASE"); print F "cosmoss.org genonaut annotation release $y.",++$r," released on ", Date::Simple::today(),"\n";'
 
 psql -A -t -F'	' cosmoss -c " select accession,go_id,description from (select accession, value as go_id , term_id, evidencecode, annotator_id, source, date,version_id from features where active=1 and version_id in (6,4,5) and term_id in (4,5,6) and status != 2) as GO left join (select accession,value as description from  features where active=1 and version_id in (6,4,5) and term_id = 3 and status != 2) as d using (accession) order by version_id asc, accession asc, term_id asc;" |sort -u > $NAME.annot
 
