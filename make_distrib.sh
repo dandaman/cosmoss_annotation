@@ -2,8 +2,6 @@
 
 NAME=cosmoss.genonaut
 
-#perl -MDate::Simple -e '$d=Date::Simple->new(Date::Simple::today()); $y=$d->year(); open(F, "RELEASE"); $S=<F>; ($r) = ($S=~/release $y\.(\d+)/); open(F, ">RELEASE"); print F "cosmoss.org genonaut annotation release $y.",++$r," released on ", Date::Simple::today(),"\n";'
-
 psql -A -t -F'	' cosmoss -c " select accession,go_id,description from (select accession, value as go_id , term_id, evidencecode, annotator_id, source, date,version_id from features where active=1 and version_id in (6,4,5) and term_id in (4,5,6) and status != 2) as GO left join (select accession,value as description from  features where active=1 and version_id in (6,4,5) and term_id = 3 and status != 2) as d using (accession) order by version_id asc, accession asc, term_id asc;" |sort -u > $NAME.annot
 
 psql -A -t -F'	' cosmoss -c " select accession,go_id,annotator_id,evidencecode,date,source,description from (select accession, value as go_id , term_id, evidencecode, annotator_id, source, date,version_id from features where active=1 and version_id in (6,4,5) and term_id in (4,5,6) and status != 2) as GO left join (select accession,value as description from  features where active=1 and version_id in (6,4,5) and term_id = 3 and status != 2) as d using (accession) order by version_id asc, accession asc, term_id asc;"|sort -u  > $NAME.txt
@@ -21,5 +19,6 @@ psql -A  -F'	' cosmoss -c "select accession,features.annotator_id,coslink.csid, 
 
 perl -e 'while (<>){ chomp; @a=split/\t/; $a[0]=~s/V6\.\d+/V6/; $l{$a[0]}{$a[1]}++;} print "$_\t",join(", ",sort keys %{$l{$_}}),"\n" foreach sort keys %l;' $NAME.annot > $NAME.map
 
-#cut -f1,3 $NAME.annot | sort -u > $NAME.descriptions.txt
+perl -e 'open(F,$ARGV[0]); while (<F>){next if /^accession/; chomp; @a=split/\t/; $l{$a[0]}{n}=$a[4];} open(F,$ARGV[1]); while (<F>){next if /^accession/; chomp; @a=split/\t/; $l{$a[0]}{d}=$a[4];} foreach my $m (sort keys %l) { print join("\t", $m, $l{$m}{n} ? $l{$m}{n} : "", $l{$m}{d} ? $l{$m}{d} : ""),"\n";} ' cosmoss.genonaut.gene_name.txt cosmoss.genonaut.description.txt | psql -h dbserv.physcome physcome -c 'drop table genonaut.transcripts; create table genonaut.transcripts (model varchar(50) primary key, name text, description text); copy genonaut.transcripts from stdin;'
 
+perl -e 'open(F,$ARGV[0]); while (<F>){next if /^accession/; chomp; @a=split/\t/; my ($d) = ($a[0]=~ /\.(\d+)$/); $a[0]=~ s/\.(\d+)$//; $l{$a[0]}{n}=$a[4] if !$l{$a[0]}{n} || $d ==1; } open(F,$ARGV[1]); while (<F>){next if /^accession/; chomp; @a=split/\t/; $a[0]=~ s/\.(\d+)$//; $l{$a[0]}{d}=$a[4] if !$l{$a[0]}{d} || $d ==1; } foreach my $m (sort keys %l) { print join("\t", $m, $l{$m}{n} ? $l{$m}{n} : "", $l{$m}{d} ? $l{$m}{d} : ""),"\n";} ' cosmoss.genonaut.gene_name.txt cosmoss.genonaut.description.txt | psql -h dbserv.physcome physcome -c 'drop table genonaut.genes; create table genonaut.genes (model varchar(50) primary key, name text, description text); copy genonaut.genes from stdin;'
