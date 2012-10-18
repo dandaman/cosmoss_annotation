@@ -1,4 +1,4 @@
 #!/bin/bash
 d=$(date)
-git commit -a -q -uno -m "Nightly Build: $d" 
-git push -q origin master 
+git commit -a -m "Nightly Build: $d" > /home/lang/www.cosmoss/annotation/goa/cosmoss-annotation/update.log 2>&1
+git push origin master >> /home/lang/www.cosmoss/annotation/goa/cosmoss-annotation/update.log 2>&1
