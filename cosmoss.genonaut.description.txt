@@ -3231,7 +3231,7 @@ Pp1s13_227V6.1	cosmoss		2009-07-17 11:26:38	F14D16.17; expressed protein [Arabid
 Pp1s13_229V6.1	cosmoss		2010-05-05 18:36:27	asc1-like protein 1	cosmoss|blast2go_V1.6
 Pp1s13_236V6.1	cosmoss		2010-05-05 18:36:27	40s ribosomal protein	cosmoss|blast2go_V1.6
 Pp1s13_237V6.1	cosmoss		2010-05-05 18:36:27	histone lysine methyltransferase set7	cosmoss|blast2go_V1.6
-Pp1s13_238V6.1	cosmoss		2009-07-17 11:25:19	Unknown mitochondrial protein At5g63510 [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_203134
+Pp1s13_238V6.1	lang	373	2013-02-04 10:12:40	gamma ca gene for putative mitochondrial gamma carbonic anhydrase protein GAMMA CA
 Pp1s13_239V6.1	cosmoss		2009-07-17 11:21:33	F4L23.2; fasciclin-like arabinogalactan-protein (FLA8) [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_115500
 Pp1s13_243V6.1	cosmoss		2010-05-05 18:36:27	gtpase activating	cosmoss|blast2go_V1.6
 Pp1s13_24V6.1	cosmoss		2009-07-17 11:26:37	4933417K04Rik; RIKEN cDNA 4933417K04 gene [Mus musculus]	cosmoss|V1.2-5_mapping_Phypa_66958
@@ -7901,7 +7901,7 @@ Pp1s207_124V6.1	cosmoss		2010-05-05 18:36:27	monovalent cation:proton antiporter
 Pp1s207_126V6.1	cosmoss		2010-05-05 18:36:27	monovalent cation:proton antiporter-1 family	cosmoss|blast2go_V1.6
 Pp1s207_128V6.1	cosmoss		2010-05-05 18:36:27	serine-threonine protein plant-	cosmoss|blast2go_V1.6
 Pp1s207_128V6.2	cosmoss		2010-05-05 18:36:27	serine-threonine protein plant-	cosmoss|blast2go_V1.6
-Pp1s207_12V6.1	cosmoss		2009-07-17 11:21:21	transcription factor apfi	cosmoss|V1.2-5_mapping_Phypa_107913
+Pp1s207_12V6.1	lang	373	2013-02-04 10:10:23	gamma ca gene for putative mitochondrial gamma carbonic anhydrase protein GAMMA CA
 Pp1s207_20V6.1	cosmoss		2010-05-05 18:36:27	heat shock transcription factor	cosmoss|blast2go_V1.6
 Pp1s207_21V6.1	cosmoss		2010-05-05 18:36:27	condensin complex barren domain-containing non-smc subunit
 Pp1s207_23V6.1	cosmoss		2010-05-05 18:36:27	na+ h+ antiporter	cosmoss|blast2go_V1.6
@@ -13646,7 +13646,7 @@ Pp1s31_186V6.1	cosmoss		2010-05-05 18:36:27	dna binding	cosmoss|blast2go_V1.6
 Pp1s31_187V6.1	cosmoss		2009-07-17 11:21:41	seed maturation proteinexpressed	cosmoss|V1.2-5_mapping_Phypa_120009
 Pp1s31_187V6.2	cosmoss		2009-07-17 11:21:41	seed maturation proteinexpressed	cosmoss|V1.2-5_mapping_Phypa_120009
 Pp1s31_189V6.1	cosmoss		2009-07-17 11:24:27	MUG13.15; expressed protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_178574
-Pp1s31_190V6.1	cosmoss		2009-07-17 11:24:27	transcription factor apfi	cosmoss|V1.2-5_mapping_Phypa_178577
+Pp1s31_190V6.1	lang	373	2013-02-04 10:11:12	gamma ca gene for putative mitochondrial gamma carbonic anhydrase protein GAMMA CA
 Pp1s31_198V6.1	cosmoss		2009-07-17 11:24:27	F16N3.18; expressed protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_178580
 Pp1s31_199V6.1	cosmoss		2010-05-05 18:36:27	metal tolerance protein
 Pp1s31_1V6.1	cosmoss		2009-07-17 11:23:34	similar to dual-specificity phosphatase laforin [Cyanidioschyzon merolae]	cosmoss|V1.2-5_mapping_Phypa_161212
