@@ -21,5 +21,9 @@ psql -A  -F'	' cosmoss -c "select accession,features.annotator_id,coslink.csid, 
 
 perl -e 'while (<>){ chomp; @a=split/\t/; $a[0]=~s/V6\.\d+/V6/; $l{$a[0]}{$a[1]}++;} print "$_\t",join(", ",sort keys %{$l{$_}}),"\n" foreach sort keys %l;' $NAME.annot > $NAME.map
 
+wget http://www.geneontology.org/GO_slims/goslim_plant.obo
+wget http://www.geneontology.org/ontology/obo_format_1_2/gene_ontology_ext.obo
+map2slim goslim_plant.obo gene_ontology_ext.obo cosmoss.genonaut.gaf2 > cosmoss.genonaut.slim.gaf2
+
 #cut -f1,3 $NAME.annot | sort -u > $NAME.descriptions.txt
 
