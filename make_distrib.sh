@@ -24,7 +24,7 @@ perl -e 'open(F,$ARGV[0]); while (<F>){next if /^accession/; chomp; @a=split/\t/
 perl -e 'open(F,$ARGV[0]); while (<F>){next if /^accession/; chomp; @a=split/\t/; my ($d) = ($a[0]=~ /\.(\d+)$/); $a[0]=~ s/\.(\d+)$//; $l{$a[0]}{n}=$a[4] if !$l{$a[0]}{n} || $d ==1; } open(F,$ARGV[1]); while (<F>){next if /^accession/; chomp; @a=split/\t/; $a[0]=~ s/\.(\d+)$//; $l{$a[0]}{d}=$a[4] if !$l{$a[0]}{d} || $d ==1; } foreach my $m (sort keys %l) { print join("\t", $m, $l{$m}{n} ? $l{$m}{n} : "", $l{$m}{d} ? $l{$m}{d} : ""),"\n";} ' cosmoss.genonaut.gene_name.txt cosmoss.genonaut.description.txt | psql -h dbserv.physcome physcome -c 'drop table genonaut.genes; create table genonaut.genes (gene varchar(50) primary key, name text, description text); copy genonaut.genes from stdin;'
 
 
-wget http://www.geneontology.org/GO_slims/goslim_plant.obo
-wget http://www.geneontology.org/ontology/obo_format_1_2/gene_ontology_ext.obo
+wget -N http://www.geneontology.org/GO_slims/goslim_plant.obo
+wget -N http://www.geneontology.org/ontology/obo_format_1_2/gene_ontology_ext.obo
 map2slim goslim_plant.obo gene_ontology_ext.obo cosmoss.genonaut.gaf2 > cosmoss.genonaut.slim.gaf2
 
