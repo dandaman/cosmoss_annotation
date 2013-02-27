@@ -26,5 +26,8 @@ perl -e 'open(F,$ARGV[0]); while (<F>){next if /^accession/; chomp; @a=split/\t/
 
 wget -N http://www.geneontology.org/GO_slims/goslim_plant.obo
 wget -N http://www.geneontology.org/ontology/obo_format_1_2/gene_ontology_ext.obo
-map2slim goslim_plant.obo gene_ontology_ext.obo cosmoss.genonaut.gaf2 > cosmoss.genonaut.slim.gaf2
+map2slim goslim_plant.obo gene_ontology_ext.obo cosmoss.genonaut.gaf2 > cosmoss.genonaut.plant.slim.gaf2
+
+wget -N http://www.geneontology.org/GO_slims/goslim_generic.obo
+map2slim goslim_generic.obo gene_ontology_ext.obo cosmoss.genonaut.gaf2 > cosmoss.genonaut.generic.slim.gaf2
 

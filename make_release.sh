@@ -23,7 +23,11 @@ perl -e 'while (<>){ chomp; @a=split/\t/; $a[0]=~s/V6\.\d+/V6/; $l{$a[0]}{$a[1]}
 
 wget -N http://www.geneontology.org/GO_slims/goslim_plant.obo
 wget -N http://www.geneontology.org/ontology/obo_format_1_2/gene_ontology_ext.obo
-map2slim goslim_plant.obo gene_ontology_ext.obo cosmoss.genonaut.gaf2 > cosmoss.genonaut.slim.gaf2
+map2slim goslim_plant.obo gene_ontology_ext.obo cosmoss.genonaut.gaf2 > cosmoss.genonaut.plant.slim.gaf2
+
+wget -N http://www.geneontology.org/GO_slims/goslim_generic.obo
+map2slim goslim_generic.obo gene_ontology_ext.obo cosmoss.genonaut.gaf2 > cosmoss.genonaut.generic.slim.gaf2
+
 
 #cut -f1,3 $NAME.annot | sort -u > $NAME.descriptions.txt
 
