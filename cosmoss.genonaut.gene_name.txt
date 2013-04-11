@@ -1203,6 +1203,7 @@ Pp1s80_60V6.2	cosmoss		2009-06-30 12:50:38	ftsZ2-1	cosmoss|V1.2-5_mapping_Phypa_
 Pp1s80_72V6.1	zimmer		2013-02-27 15:43:24	hy5b
 Pp1s80_72V6.2	rensing		2010-01-15 11:28:06	hyh2	cosmoss|V1.2-5_mapping_Phypa_130041
 Pp1s80_72V6.3	rensing		2010-01-15 11:28:06	hyh2	cosmoss|V1.2-5_mapping_Phypa_130041
+Pp1s80_9V6.1	zimmer		2013-04-05 11:44:17	abi1b
 Pp1s81_131V6.1	cosmoss		2009-06-30 12:45:52	prr2	cosmoss|V1.2-5_mapping_Phypa_165025
 Pp1s81_131V6.2	cosmoss		2009-06-30 12:45:52	prr2	cosmoss|V1.2-5_mapping_Phypa_165025
 Pp1s81_131V6.3	cosmoss		2009-06-30 12:45:52	prr2	cosmoss|V1.2-5_mapping_Phypa_165025
