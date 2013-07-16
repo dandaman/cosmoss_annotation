@@ -14995,7 +14995,7 @@ Pp1s351_46V6.3	cosmoss		2010-05-05 18:36:27	zinc finger	cosmoss|blast2go_V1.6
 Pp1s351_49V6.1	cosmoss		2010-05-05 18:36:27	seed maturation protein	cosmoss|blast2go_V1.6
 Pp1s351_55V6.1	cosmoss		2009-07-17 11:24:13	F27G19.100; expressed protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_172429
 Pp1s351_56V6.1	cosmoss		2009-07-17 11:24:13	F27G19.100; expressed protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_172429
-Pp1s351_6V6.1	cosmoss		2010-05-05 18:36:27	polyubiquitin containing 7 ubiquitin monomers	cosmoss|blast2go_V1.6
+Pp1s351_6V6.1	hoernstein		2013-07-15 16:55:14	polyubiquitin containing 3 ubiquitin monomers
 Pp1s351_7V6.1	cosmoss		2010-05-05 18:36:27	cohesin subunit	cosmoss|blast2go_V1.6
 Pp1s351_9V6.1	cosmoss		2009-07-17 11:27:29	Vasohibin-like protein [Homo sapiens]	cosmoss|V1.2-5_mapping_Phypa_98307
 Pp1s352_10V6.1	cosmoss		2010-05-05 18:36:27	ein3-binding f-box protein 3	cosmoss|blast2go_V1.6
