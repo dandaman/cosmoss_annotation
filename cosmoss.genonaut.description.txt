@@ -12073,8 +12073,7 @@ Pp1s28_198V6.1	cosmoss		2010-05-05 18:36:27	atp binding	cosmoss|blast2go_V1.6
 Pp1s28_200V6.1	cosmoss		2010-05-05 18:36:27	v-type h(+)-translocating pyrophosphatase	cosmoss|blast2go_V1.6
 Pp1s28_203V6.1	cosmoss		2010-05-05 18:36:27	atp binding	cosmoss|blast2go_V1.6
 Pp1s28_206V6.1	cosmoss		2010-05-05 18:36:27	flag-tagged protein kinase domain of mitogen-activated protein kinase kinase kinase	cosmoss|blast2go_V1.6
-Pp1s28_209V6.1	cosmoss		2010-05-05 18:36:27	bop npr1 nim1-like regulatory protein	cosmoss|blast2go_V1.6
-Pp1s28_209v6.1	oesterle	329	2012-09-19 21:53:56	bop1 gene for BLADE-ON-PETIOLE protein BOP1
+Pp1s28_209V6.1	oesterle	329	2013-07-31 13:39:43	bop1 gene for BLADE-ON-PETIOLE protein BOP1
 Pp1s28_210V6.1	cosmoss		2010-05-05 18:36:27	u6 snrna-associated sm-like protein lsm4	cosmoss|blast2go_V1.6
 Pp1s28_211V6.1	cosmoss		2010-05-05 18:36:27	pre-mrna-splicing factor	cosmoss|blast2go_V1.6
 Pp1s28_212V6.1	cosmoss		2010-05-05 18:36:27	member ras oncogene family
@@ -15589,8 +15588,7 @@ Pp1s36_318V6.1	cosmoss		2009-07-17 11:23:36	MDC16.13; expressed protein [Arabido
 Pp1s36_319V6.1	cosmoss		2009-07-17 11:23:36	MDC16.13; expressed protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_161871
 Pp1s36_31V6.1	cosmoss		2010-05-05 18:36:27	2-dehydro-3-deoxyphosphoheptonate aldolase 3-deoxy-d-arabino-heptulosonate 7-phosphate synthetase	cosmoss|blast2go_V1.6
 Pp1s36_321V6.1	cosmoss		2009-07-17 11:24:29	nadh dehydrogenaseflavoprotein24kda	cosmoss|V1.2-5_mapping_Phypa_179617
-Pp1s36_325V6.1	cosmoss		2010-05-05 18:36:27	bop npr1 nim1-like regulatory protein	cosmoss|blast2go_V1.6
-Pp1s36_325v6.1	oesterle	329	2012-09-19 21:55:15	bop1 gene for BLADE-ON-PETIOLE protein BOP1
+Pp1s36_325V6.1	oesterle	329	2013-07-31 13:39:43	bop1 gene for BLADE-ON-PETIOLE protein BOP1
 Pp1s36_327V6.1	cosmoss		2010-05-05 18:36:27	u6 snrna-associated sm-like protein lsm4	cosmoss|blast2go_V1.6
 Pp1s36_327V6.2	cosmoss		2010-05-05 18:36:27	u6 snrna-associated sm-like protein lsm4	cosmoss|blast2go_V1.6
 Pp1s36_329V6.1	cosmoss		2010-05-05 18:36:27	abc transporter domain protein
