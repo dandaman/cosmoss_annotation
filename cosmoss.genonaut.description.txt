@@ -7634,9 +7634,9 @@ Pp1s201_10V6.1	cosmoss		2010-05-05 18:36:27	dna-damage inducible protein	cosmoss
 Pp1s201_110V6.1	cosmoss		2010-05-05 18:36:27	mitochondrial protein translocase family	cosmoss|blast2go_V1.6
 Pp1s201_111V6.1	cosmoss		2010-05-05 18:36:27	adenylate kinase	cosmoss|blast2go_V1.6
 Pp1s201_114V6.1	cosmoss		2010-05-05 18:36:27	mediated genome instability 1	cosmoss|blast2go_V1.6
-Pp1s201_115V6.1	cosmoss		2010-05-05 18:36:27	protein disulfide	cosmoss|blast2go_V1.6
-Pp1s201_115V6.2	cosmoss		2010-05-05 18:36:27	protein disulfide	cosmoss|blast2go_V1.6
-Pp1s201_115V6.3	cosmoss		2010-05-05 18:36:27	protein disulfide	cosmoss|blast2go_V1.6
+Pp1s201_115V6.1	hoernstein		2014-04-15 13:01:08	thioredoxin family protein
+Pp1s201_115V6.2	hoernstein		2014-04-15 13:01:45	thioredoxin family protein
+Pp1s201_115V6.3	hoernstein		2014-04-15 13:02:07	thioredoxin family protein
 Pp1s201_116V6.1	cosmoss		2010-05-05 18:36:27	atp binding	cosmoss|blast2go_V1.6
 Pp1s201_11V6.1	cosmoss		2010-05-05 18:36:27	cell division protein	cosmoss|blast2go_V1.6
 Pp1s201_122V6.1	cosmoss		2009-07-17 11:27:15	hypothetical protein [Dictyostelium discoideum]	cosmoss|V1.2-5_mapping_Phypa_90814
@@ -20613,10 +20613,10 @@ Pp1s61_255V6.4	cosmoss		2010-05-05 18:36:27	ras-related protein rab-21	cosmoss|b
 Pp1s61_261V6.1	cosmoss		2009-07-17 11:26:54	ribonuclease H1, putative [EC:3.1.26.4] [KO:K01163] [Trypanosoma cruzi]	cosmoss|V1.2-5_mapping_Phypa_76939
 Pp1s61_262V6.1	cosmoss		2010-05-05 18:36:27	transcription elongation factor 1	cosmoss|blast2go_V1.6
 Pp1s61_263V6.1	cosmoss		2010-05-05 18:36:27	ras-related protein rab-21	cosmoss|blast2go_V1.6
-Pp1s61_265V6.1	cosmoss		2010-05-05 18:36:27	protein z	cosmoss|blast2go_V1.6
-Pp1s61_265V6.2	cosmoss		2010-05-05 18:36:27	protein z	cosmoss|blast2go_V1.6
-Pp1s61_265V6.3	cosmoss		2010-05-05 18:36:27	protein z	cosmoss|blast2go_V1.6
-Pp1s61_265V6.4	cosmoss		2010-05-05 18:36:27	protein z	cosmoss|blast2go_V1.6
+Pp1s61_265V6.1	hoernstein		2014-04-15 14:21:02	Serpin family protein
+Pp1s61_265V6.2	hoernstein		2014-04-15 14:20:40	Serpin family protein
+Pp1s61_265V6.3	hoernstein		2014-04-15 14:20:02	Serpin family protein
+Pp1s61_265V6.4	hoernstein		2014-04-15 14:19:30	Serpin family protein
 Pp1s61_267V6.1	cosmoss		2010-05-05 18:36:27	adenylate kinase	cosmoss|blast2go_V1.6
 Pp1s61_268V6.1	cosmoss		2010-05-05 18:36:27	40s ribosomal protein s23	cosmoss|blast2go_V1.6
 Pp1s61_270V6.1	cosmoss		2010-05-05 18:36:27	n-acetyltransferase esco1	cosmoss|blast2go_V1.6
