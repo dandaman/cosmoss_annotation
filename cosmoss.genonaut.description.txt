@@ -9289,8 +9289,8 @@ Pp1s22_258V6.1	cosmoss		2010-05-05 18:36:27	adenylate kinase	cosmoss|blast2go_V1
 Pp1s22_258V6.2	cosmoss		2010-05-05 18:36:27	adenylate kinase	cosmoss|blast2go_V1.6
 Pp1s22_259V6.1	cosmoss		2010-05-05 18:36:27	vernalization independence	cosmoss|blast2go_V1.6
 Pp1s22_260V6.1	cosmoss		2010-05-05 18:36:27	vernalization independence	cosmoss|blast2go_V1.6
-Pp1s22_263V6.1	cosmoss		2010-05-05 18:36:27	protein z	cosmoss|blast2go_V1.6
-Pp1s22_263V6.2	cosmoss		2010-05-05 18:36:27	protein z	cosmoss|blast2go_V1.6
+Pp1s22_263V6.1	hoernstein		2014-04-16 09:13:59	Serpin family protein
+Pp1s22_263V6.2	hoernstein		2014-04-16 09:14:31	Serpin family protein
 Pp1s22_264V6.1	cosmoss		2009-07-17 11:26:43	MUD21.10; hypothetical protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_69299
 Pp1s22_267V6.1	cosmoss		2013-02-21 17:33:57	contains ESTs AU056345(S20491),AU056346(S20491)	cosmoss|V1.2-5_mapping_Phypa_117800
 Pp1s22_267V6.2	cosmoss		2013-02-21 17:33:57	contains ESTs AU056345(S20491),AU056346(S20491)	cosmoss|V1.2-5_mapping_Phypa_117800
@@ -17103,9 +17103,9 @@ Pp1s414_12V6.2	cosmoss		2010-05-05 18:36:27	hypothetical protein SORBIDRAFT_06g0
 Pp1s414_12V6.3	cosmoss		2010-05-05 18:36:27	hypothetical protein SORBIDRAFT_06g031640 [Sorghum bicolor]	cosmoss|blast2go_V1.6
 Pp1s414_21V6.1	cosmoss		2009-07-17 11:21:12	T5P19.150; serine-rich protein-related [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_100269
 Pp1s414_22V6.1	cosmoss		2009-07-17 11:23:13	26s proteasome regulatory subunit s2	cosmoss|V1.2-5_mapping_Phypa_154274
-Pp1s414_23V6.1	cosmoss		2010-05-05 18:36:27	protein z	cosmoss|blast2go_V1.6
-Pp1s414_23V6.2	cosmoss		2010-05-05 18:36:27	protein z	cosmoss|blast2go_V1.6
-Pp1s414_23V6.3	cosmoss		2010-05-05 18:36:27	protein z	cosmoss|blast2go_V1.6
+Pp1s414_23V6.1	hoernstein		2014-04-16 09:16:12	Serpin family protein
+Pp1s414_23V6.2	hoernstein		2014-04-16 09:16:33	Serpin family protein
+Pp1s414_23V6.3	hoernstein		2014-04-16 09:17:11	Serpin family protein
 Pp1s414_24V6.1	cosmoss		2010-05-05 18:36:27	fructose-6-phosphate-2-kinase fructose- -bisphosphatase	cosmoss|blast2go_V1.6
 Pp1s414_2V6.1	cosmoss		2009-07-17 11:23:13	aspartyl aminopeptidase	cosmoss|V1.2-5_mapping_Phypa_154257
 Pp1s414_7V6.1	cosmoss		2013-02-21 17:33:57	K7M2.22; expressed protein	cosmoss|V1.2-5_mapping_Phypa_227402
@@ -23421,7 +23421,7 @@ Pp1s86_57V6.3	cosmoss		2010-05-05 18:36:27	member ras oncogene family	cosmoss|bl
 Pp1s86_57V6.4	cosmoss		2010-05-05 18:36:27	member ras oncogene family	cosmoss|blast2go_V1.6
 Pp1s86_61V6.1	cosmoss		2009-07-17 11:21:20	laccase (diphenol oxidase)-like protein	cosmoss|V1.2-5_mapping_Phypa_106598
 Pp1s86_61V6.2	cosmoss		2009-07-17 11:21:20	laccase (diphenol oxidase)-like protein	cosmoss|V1.2-5_mapping_Phypa_106598
-Pp1s86_63V6.1	cosmoss		2010-05-05 18:36:27	protein z	cosmoss|blast2go_V1.6
+Pp1s86_63V6.1	hoernstein		2014-04-16 09:18:06	Serpin family protein
 Pp1s86_66V6.1	cosmoss		2010-05-05 18:36:27	peroxisomal membrane protein	cosmoss|blast2go_V1.6
 Pp1s86_66V6.2	cosmoss		2010-05-05 18:36:27	peroxisomal membrane protein	cosmoss|blast2go_V1.6
 Pp1s86_67V6.1	cosmoss		2010-05-05 18:36:27	tartrate-resistant acid phosphatase type 5	cosmoss|blast2go_V1.6
@@ -23844,6 +23844,10 @@ Pp1s9067_2V6.1	cosmoss		2010-05-05 18:36:27	(abc transport system substrate-bind
 Pp1s9092_1V6.1	cosmoss		2010-05-05 18:36:27	aminopeptidase 2	cosmoss|blast2go_V1.6
 Pp1s90_100V6.1	cosmoss		2013-02-21 17:33:57	F13E7.27; zinc finger (C2H2 type) family protein	cosmoss|V1.2-5_mapping_Phypa_131688
 Pp1s90_103V6.1	cosmoss		2013-02-21 17:33:57	MQM1.1; expressed protein	cosmoss|V1.2-5_mapping_Phypa_213529
+Pp1s90_110V6.1	hoernstein		2014-04-16 09:24:29	Peptidase M1 family protein
+Pp1s90_110V6.2	hoernstein		2014-04-16 09:25:03	Peptidase M1 family protein
+Pp1s90_110V6.3	hoernstein		2014-04-16 09:25:46	Peptidase M1 family protein
+Pp1s90_110V6.4	hoernstein		2014-04-16 09:26:10	Peptidase M1 family protein
 Pp1s90_113V6.1	cosmoss		2010-05-05 18:36:27	protease-associated domain-containing protein	cosmoss|blast2go_V1.6
 Pp1s90_118V6.1	cosmoss		2010-05-05 18:36:27	r3h domain containing	cosmoss|blast2go_V1.6
 Pp1s90_121V6.1	cosmoss		2010-05-05 18:36:27	mikc* mads-box transcription factor	cosmoss|blast2go_V1.6
