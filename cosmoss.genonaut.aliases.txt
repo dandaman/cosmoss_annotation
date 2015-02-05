@@ -1,5 +1,6 @@
 accession	annotator_id	csid	date	value	source
 Pp1s10_103V6.1	lloyd		2010-09-22 16:07:54	UPF1
+Pp1s118_161V6.1	cosmoss		2015-02-04 22:53:21	mads2	cosmoss|V1.2-5_mapping_Phypa_166549
 Pp1s147_136V6.1	zimmer	254	2011-08-03 09:01:36	Rhd6-like 1
 Pp1s14_318V6.2	zimmer	314	2012-05-16 11:19:50	RPN10
 Pp1s14_419V6.1	zimmer		2011-09-09 15:35:45	max4

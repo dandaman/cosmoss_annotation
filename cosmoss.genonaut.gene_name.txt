@@ -181,7 +181,8 @@ Pp1s117_91V6.2	cosmoss		2009-06-30 12:39:38	rabf2a1	cosmoss|V1.2-5_mapping_Phypa
 Pp1s117_91V6.3	cosmoss		2009-06-30 12:39:38	rabf2a1	cosmoss|V1.2-5_mapping_Phypa_188295
 Pp1s118_112V6.1	cosmoss		2009-06-30 12:45:07	tafv1501	cosmoss|V1.2-5_mapping_Phypa_215697
 Pp1s118_112V6.2	cosmoss		2009-06-30 12:45:07	tafv1501	cosmoss|V1.2-5_mapping_Phypa_215697
-Pp1s118_161V6.1	cosmoss		2009-06-30 12:38:09	mads2	cosmoss|V1.2-5_mapping_Phypa_166549
+Pp1s118_161V6.1	barker	384,383	2015-02-04 22:53:22	ppmads2
+Pp1s118_209V6.1	barker	385,383,386	2015-02-04 23:17:11	ppm1
 Pp1s118_209V6.2	oesterle	346	2012-09-29 22:48:52	ppm1
 Pp1s118_70V6.1	cosmoss		2009-06-30 12:42:00	hak2	cosmoss|V1.2-5_mapping_Phypa_215671
 Pp1s118_9V6.1	symeonidi	355,242	2010-09-15 15:12:16	sbp1
@@ -442,8 +443,9 @@ Pp1s197_19V6.1	cosmoss		2009-06-30 12:42:08	chr1524	cosmoss|V1.2-5_mapping_Phypa
 Pp1s197_20V6.1	cosmoss		2009-06-30 12:37:32	ykt6a1	cosmoss|V1.2-5_mapping_Phypa_220522
 Pp1s197_4V6.1	cosmoss		2009-06-30 12:42:53	hfo1502	cosmoss|V1.2-5_mapping_Phypa_169022
 Pp1s197_90V6.1	cosmoss		2009-06-30 12:46:55	hira1501	cosmoss|V1.2-5_mapping_Phypa_193337
-Pp1s198_149V6.1	cosmoss		2009-06-30 12:44:26	pptim4	cosmoss|V1.2-5_mapping_Phypa_90569
+Pp1s198_149V6.1	cosmoss	383	2009-06-30 12:44:26	pptim4	cosmoss|V1.2-5_mapping_Phypa_90569
 Pp1s198_149V6.2	cosmoss		2009-06-30 12:44:26	pptim4	cosmoss|V1.2-5_mapping_Phypa_90569
+Pp1s198_151V6.1	barker	383	2015-02-05 00:09:14	pptim5
 Pp1s198_152V6.1	cosmoss		2009-06-30 12:42:53	abcg7	cosmoss|V1.2-5_mapping_Phypa_59855
 Pp1s198_152V6.2	cosmoss		2009-06-30 12:42:53	abcg7	cosmoss|V1.2-5_mapping_Phypa_59855
 Pp1s198_154V6.1	student	207	2010-08-13 14:15:08	act7	cosmoss|V1.2-5_mapping_Phypa_220700
@@ -635,6 +637,7 @@ Pp1s263_83V6.1	cosmoss		2009-06-30 12:38:22	abcf2	cosmoss|V1.2-5_mapping_Phypa_2
 Pp1s265_34V6.1	zimmer	251	2011-04-20 09:10:58	drp5b-1
 Pp1s266_15V6.1	oesterle	313	2012-09-30 20:40:00	tubG2
 Pp1s266_1V6.1	cosmoss		2009-06-30 12:39:05	abca6	cosmoss|V1.2-5_mapping_Phypa_147779
+Pp1s267_56V6.1	barker	384,383	2015-02-04 23:32:33	ppmads1
 Pp1s267_61V6.2	student	117	2010-07-10 20:17:32	pip2_3	cosmoss|V1.2-5_mapping_Phypa_454785
 Pp1s268_6V6.1	cosmoss	331	2009-06-30 12:39:52	ena2	cosmoss|V1.2-5_mapping_Phypa_170907
 Pp1s268_6V6.2	cosmoss		2009-06-30 12:39:52	ena2	cosmoss|V1.2-5_mapping_Phypa_170907
@@ -651,6 +654,7 @@ Pp1s270_82V6.1	cosmoss		2009-06-30 12:46:12	abcg3	cosmoss|V1.2-5_mapping_Phypa_1
 Pp1s271_49V6.1	cosmoss		2009-06-30 12:41:27	arl1a1	cosmoss|V1.2-5_mapping_Phypa_108476
 Pp1s272_33V6.1	cosmoss		2009-06-30 12:42:14	srt1501	cosmoss|V1.2-5_mapping_Phypa_148151
 Pp1s272_3V6.1	cosmoss	287	2009-06-30 12:38:22	aldh3e	cosmoss|V1.2-5_mapping_Phypa_148137
+Pp1s273_50V6.1	barker	383	2015-02-04 23:38:12	ppma12
 Pp1s273_51V6.1	barker		2010-09-14 14:22:35	ppma12
 Pp1s273_60V6.1	oesterle	307	2012-03-09 11:24:25	cge2
 Pp1s274_4V6.1	cosmoss		2009-06-30 12:36:49	raba52	cosmoss|V1.2-5_mapping_Phypa_196760
@@ -1063,9 +1067,13 @@ Pp1s55_124V6.1	cosmoss		2009-06-30 12:37:59	chr1515	cosmoss|V1.2-5_mapping_Phypa
 Pp1s55_148V6.1	oesterle	350	2012-09-29 22:59:58	ps
 Pp1s55_158V6.1	gustin		2010-05-08 04:35:14	mtp8	cosmoss|V1.2-5_mapping_Phypa_434661
 Pp1s55_214V6.1	cosmoss		2009-06-30 12:41:02	syp61a1	cosmoss|V1.2-5_mapping_Phypa_163422
+Pp1s55_280V6.1	barker	384,383	2015-02-04 23:44:41	ppmads3
+Pp1s55_284V6.1	barker	383	2015-02-04 23:47:03	ppma9
 Pp1s55_301V6.2	student	117	2010-07-13 13:51:10	pip2_2	cosmoss|V1.2-5_mapping_Phypa_434685
 Pp1s55_301V6.4	oesterle	117	2012-09-29 23:24:19	pip2.2
-Pp1s55_304V6.1	oesterle	349	2012-09-29 22:58:50	ppm2
+Pp1s55_304V6.1	oesterle	349,385,383,386	2012-09-29 22:58:50	ppm2
+Pp1s55_304V6.2	barker	385,383,386	2015-02-04 23:52:52	ppm2
+Pp1s55_304V6.3	barker	385,383,386	2015-02-04 23:49:06	ppm2
 Pp1s568_8V6.1	cosmoss		2009-06-30 12:36:57	htr1516	cosmoss|V1.2-5_mapping_Phypa_228359
 Pp1s56_113V6.1	cosmoss		2009-06-30 12:38:44	ndpk2a	cosmoss|V1.2-5_mapping_Phypa_125853
 Pp1s56_182V6.1	cosmoss		2009-06-30 12:44:56	ebp1503	cosmoss|V1.2-5_mapping_Phypa_47783
