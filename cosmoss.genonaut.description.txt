@@ -614,6 +614,7 @@ Pp1s106_167V6.1	cosmoss		2010-05-05 18:36:27	ribosomal protein l30	cosmoss|blast
 Pp1s106_169V6.1	cosmoss		2010-05-05 18:36:27	cdp-diacylglycerol synthetase	cosmoss|blast2go_V1.6
 Pp1s106_16V6.1	cosmoss		2010-05-05 18:36:27	formate dehydrogenase	cosmoss|blast2go_V1.6
 Pp1s106_16V6.2	cosmoss		2010-05-05 18:36:27	formate dehydrogenase	cosmoss|blast2go_V1.6
+Pp1s106_174V6.1	hoernstein		2015-06-10 16:33:17	AAA domain protein
 Pp1s106_177V6.1	cosmoss		2010-05-05 18:36:27	dna-binding protein	cosmoss|blast2go_V1.6
 Pp1s106_183V6.1	cosmoss		2010-05-05 18:36:27	dna-binding protein	cosmoss|blast2go_V1.6
 Pp1s106_185V6.1	cosmoss		2009-07-17 11:22:19	ribose 5-phosphate isomerase	cosmoss|V1.2-5_mapping_Phypa_133835
