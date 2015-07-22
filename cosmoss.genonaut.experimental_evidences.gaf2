@@ -1,8 +1,8 @@
 !gaf-version: 2.0
 cosmoss_PpV1.6	Pp1s100_222V6.2	Pp1s100_222V6.2		GO:0010167	cosmoss_ref:171	EXP		P	NRT2;1		gene_product	taxon:3218	20100714	cosmoss		cosmoss_V1.6:Pp1s100_222V6.2
 cosmoss_PpV1.6	Pp1s100_61V6.1	Pp1s100_61V6.1		GO:0005739	cosmoss_ref:253	IDA		C			gene_product	taxon:3218	20110421	cosmoss		cosmoss_V1.6:Pp1s100_61V6.1
-cosmoss_PpV1.6	Pp1s101_82V6.1	Pp1s101_82V6.1		GO:0005634	cosmoss_ref:326	IDA		C			gene_product	taxon:3218	20120910	cosmoss		cosmoss_V1.6:Pp1s101_82V6.1
 cosmoss_PpV1.6	Pp1s10_17V6.1	Pp1s10_17V6.1		GO:0005789	cosmoss_ref:266	IDA		C	PINA		gene_product	taxon:3218	20110930	cosmoss		cosmoss_V1.6:Pp1s10_17V6.1
+cosmoss_PpV1.6	Pp1s101_82V6.1	Pp1s101_82V6.1		GO:0005634	cosmoss_ref:326	IDA		C			gene_product	taxon:3218	20120910	cosmoss		cosmoss_V1.6:Pp1s101_82V6.1
 cosmoss_PpV1.6	Pp1s12_58V6.1	Pp1s12_58V6.1		GO:0010167	cosmoss_ref:171	EXP		P	NRT2_5		gene_product	taxon:3218	20100714	cosmoss		cosmoss_V1.6:Pp1s12_58V6.1
 cosmoss_PpV1.6	Pp1s138_41V6.1	Pp1s138_41V6.1		GO:0008658	cosmoss_ref:136	EXP		F	Pbp		gene_product	taxon:3218	20100713	cosmoss		cosmoss_V1.6:Pp1s138_41V6.1
 cosmoss_PpV1.6	Pp1s138_41V6.1	Pp1s138_41V6.1		GO:0009252	cosmoss_ref:136	EXP		P	Pbp		gene_product	taxon:3218	20100713	cosmoss		cosmoss_V1.6:Pp1s138_41V6.1
@@ -44,10 +44,10 @@ cosmoss_PpV1.6	Pp1s64_155V6.2	Pp1s64_155V6.2		GO:0016725	cosmoss_ref:121	IDA		F	
 cosmoss_PpV1.6	Pp1s67_107V6.1	Pp1s67_107V6.1		GO:0003700	cosmoss_ref:147	EXP		F	C3HDZ2		gene_product	taxon:3218	20100713	cosmoss		cosmoss_V1.6:Pp1s67_107V6.1
 cosmoss_PpV1.6	Pp1s67_107V6.1	Pp1s67_107V6.1		GO:0043565	cosmoss_ref:147	EXP		F	C3HDZ2		gene_product	taxon:3218	20100713	cosmoss		cosmoss_V1.6:Pp1s67_107V6.1
 cosmoss_PpV1.6	Pp1s80_151V6.1	Pp1s80_151V6.1		GO:0009536	cosmoss_ref:179	IDA		C	RPOA2		gene_product	taxon:3218	20120910	cosmoss		cosmoss_V1.6:Pp1s80_151V6.1
-cosmoss_PpV1.6	Pp1s85_160V6.1	Pp1s85_160V6.1		GO:0005856	cosmoss_ref:130	IMP		C	ARP1506		gene_product	taxon:3218	20100714	cosmoss		cosmoss_V1.6:Pp1s85_160V6.1
-cosmoss_PpV1.6	Pp1s85_160V6.1	Pp1s85_160V6.1		GO:0030833	cosmoss_ref:130	EXP		P	ARP1506		gene_product	taxon:3218	20100713	cosmoss		cosmoss_V1.6:Pp1s85_160V6.1
 cosmoss_PpV1.6	Pp1s8_288V6.1	Pp1s8_288V6.1		GO:0005774	cosmoss_ref:70	IDA		C	PCA1		gene_product	taxon:3218	20090717	cosmoss		cosmoss_V1.6:Pp1s8_288V6.1
 cosmoss_PpV1.6	Pp1s8_288V6.1	Pp1s8_288V6.1		GO:0006816	cosmoss_ref:70	IMP		P	PCA1		gene_product	taxon:3218	20090717	cosmoss		cosmoss_V1.6:Pp1s8_288V6.1
 cosmoss_PpV1.6	Pp1s8_288V6.1	Pp1s8_288V6.1		GO:0009414	cosmoss_ref:70	IDA		P	PCA1		gene_product	taxon:3218	20090717	cosmoss		cosmoss_V1.6:Pp1s8_288V6.1
 cosmoss_PpV1.6	Pp1s8_288V6.1	Pp1s8_288V6.1		GO:0009651	cosmoss_ref:70	IDA		P	PCA1		gene_product	taxon:3218	20090717	cosmoss		cosmoss_V1.6:Pp1s8_288V6.1
 cosmoss_PpV1.6	Pp1s8_288V6.1	Pp1s8_288V6.1		GO:0009737	cosmoss_ref:70	IDA		P	PCA1		gene_product	taxon:3218	20090717	cosmoss		cosmoss_V1.6:Pp1s8_288V6.1
+cosmoss_PpV1.6	Pp1s85_160V6.1	Pp1s85_160V6.1		GO:0005856	cosmoss_ref:130	IMP		C	ARP1506		gene_product	taxon:3218	20100714	cosmoss		cosmoss_V1.6:Pp1s85_160V6.1
+cosmoss_PpV1.6	Pp1s85_160V6.1	Pp1s85_160V6.1		GO:0030833	cosmoss_ref:130	EXP		P	ARP1506		gene_product	taxon:3218	20100713	cosmoss		cosmoss_V1.6:Pp1s85_160V6.1
