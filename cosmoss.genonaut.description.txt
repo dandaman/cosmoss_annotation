@@ -614,7 +614,7 @@ Pp1s106_167V6.1	cosmoss		2010-05-05 18:36:27	ribosomal protein l30	cosmoss|blast
 Pp1s106_169V6.1	cosmoss		2010-05-05 18:36:27	cdp-diacylglycerol synthetase	cosmoss|blast2go_V1.6
 Pp1s106_16V6.1	cosmoss		2010-05-05 18:36:27	formate dehydrogenase	cosmoss|blast2go_V1.6
 Pp1s106_16V6.2	cosmoss		2010-05-05 18:36:27	formate dehydrogenase	cosmoss|blast2go_V1.6
-Pp1s106_174V6.1	hoernstein		2015-06-10 16:33:17	AAA domain protein
+Pp1s106_174V6.1	hoernstein		2015-10-21 16:02:25	putative AAA-type ATPase
 Pp1s106_177V6.1	cosmoss		2010-05-05 18:36:27	dna-binding protein	cosmoss|blast2go_V1.6
 Pp1s106_183V6.1	cosmoss		2010-05-05 18:36:27	dna-binding protein	cosmoss|blast2go_V1.6
 Pp1s106_185V6.1	cosmoss		2009-07-17 11:22:19	ribose 5-phosphate isomerase	cosmoss|V1.2-5_mapping_Phypa_133835
@@ -12460,7 +12460,7 @@ Pp1s299_74V6.4	cosmoss		2009-07-17 11:25:08	T4C12.8; FPF1 protein [Arabidopsis t
 Pp1s29_101V6.1	cosmoss		2010-05-05 18:36:27	ef-hand calcium binding	cosmoss|blast2go_V1.6
 Pp1s29_102V6.1	cosmoss		2010-05-05 18:36:27	peptidase acyl-coenzyme a 6-aminopenicillanic acid acyl-transferase	cosmoss|blast2go_V1.6
 Pp1s29_103V6.1	cosmoss		2010-05-05 18:36:27	lon peptidase peroxisomal	cosmoss|blast2go_V1.6
-Pp1s29_108V6.1	cosmoss		2010-05-05 18:36:27	multidrug pheromone mdr abc transporter family
+Pp1s29_108V6.1	hoernstein		2015-10-21 14:27:46	ABC transporter family protein
 Pp1s29_109V6.1	cosmoss		2010-05-05 18:36:27	transferring glycosyl groups	cosmoss|blast2go_V1.6
 Pp1s29_109V6.2	cosmoss		2009-07-17 11:21:40	T20F21.27; glycogenin glucosyltransferase (glycogenin)-related [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_119507
 Pp1s29_114V6.1	cosmoss		2010-05-05 18:36:27	calcium-dependent nuclease	cosmoss|blast2go_V1.6
@@ -21351,7 +21351,7 @@ Pp1s68_56V6.1	cosmoss		2010-05-05 18:36:27	integral membrane duf6	cosmoss|blast2
 Pp1s68_57V6.1	cosmoss		2010-05-05 18:36:27	branched chain aminotransferase cytosolic	cosmoss|blast2go_V1.6
 Pp1s68_5V6.1	cosmoss		2009-07-17 11:22:02	T10F20.11; mother of FT and TF1 protein (MFT) [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_127945
 Pp1s68_60V6.1	cosmoss		2009-07-17 11:25:29	T16L1.180; expressed protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_211137
-Pp1s68_62V6.1	cosmoss		2009-07-17 11:23:45	MZE19.4; expressed protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_164339
+Pp1s68_62V6.1	hoernstein		2015-10-21 14:29:30	Expressed protein [Arabidopsis thaliana]
 Pp1s68_62V6.2	cosmoss		2009-07-17 11:23:45	MZE19.4; expressed protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_164339
 Pp1s68_64V6.1	cosmoss		2010-05-05 18:36:27	anther-specific proline-rich protein apg	cosmoss|blast2go_V1.6
 Pp1s68_69V6.1	cosmoss		2013-02-21 17:33:57	F10D13.30; leucine-rich repeat family protein	cosmoss|V1.2-5_mapping_Phypa_127964
