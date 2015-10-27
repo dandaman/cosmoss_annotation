@@ -4721,6 +4721,7 @@ Pp1s15_298V6.2	cosmoss		2010-05-05 18:36:27	coatomer protein gamma-subunit	cosmo
 Pp1s15_29V6.1	cosmoss		2010-05-05 18:36:27	40s ribosomal protein s13	cosmoss|blast2go_V1.6
 Pp1s15_300V6.1	cosmoss		2010-05-05 18:36:27	protein binding	cosmoss|blast2go_V1.6
 Pp1s15_306V6.1	cosmoss		2013-02-21 17:33:57	F8L15.130; expressed protein	cosmoss|V1.2-5_mapping_Phypa_116227
+Pp1s15_307V6.1	barker		2015-10-27 00:02:58	type I mads-box pseudogene
 Pp1s15_308V6.1	cosmoss		2010-05-05 18:36:27	atp binding protein	cosmoss|blast2go_V1.6
 Pp1s15_309V6.1	cosmoss		2009-07-17 11:24:23	T9L24.40; expressed protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_176094
 Pp1s15_30V6.1	cosmoss		2010-05-05 18:36:27	cellulose synthase glycosyltransferase family 2	cosmoss|blast2go_V1.6
@@ -14870,7 +14871,7 @@ Pp1s34_36V6.1	cosmoss		2013-02-21 17:33:57	K10D20.10; thioredoxin family protein
 Pp1s34_370V6.1	cosmoss		2010-05-05 18:36:27	snf2 domain-containing expressed
 Pp1s34_371V6.1	cosmoss		2010-05-05 18:36:27	arsenical pump-driving	cosmoss|blast2go_V1.6
 Pp1s34_373V6.1	cosmoss		2010-05-05 18:36:27	mikc* mads-box transcription factor
-Pp1s34_376V6.1	cosmoss		2010-05-05 18:36:27	mikc* mads-box transcription factor	cosmoss|blast2go_V1.6
+Pp1s34_376V6.1	barker		2015-10-26 23:32:41	mikc* mads-box transcription factor pseudogene
 Pp1s34_379V6.1	cosmoss		2010-05-05 18:36:27	predicted protein [Populus trichocarpa]	cosmoss|blast2go_V1.6
 Pp1s34_379V6.2	cosmoss		2013-02-21 17:33:57	MJC20.6; expressed protein	cosmoss|V1.2-5_mapping_Phypa_120760
 Pp1s34_37V6.1	cosmoss		2010-05-05 18:36:27	squamosa promoter-binding	cosmoss|blast2go_V1.6
@@ -15955,7 +15956,7 @@ Pp1s37_346V6.3	cosmoss		2010-05-05 18:36:27	cytochrome p450 family expressed	cos
 Pp1s37_347V6.1	cosmoss		2013-02-21 17:33:57	MDK4.13; ARF GAP-like zinc finger-containing protein (ZIGA3)	cosmoss|V1.2-5_mapping_Phypa_121850
 Pp1s37_348V6.1	cosmoss		2013-02-21 17:33:57	F8K7.4; calcium-binding EF hand family protein	cosmoss|V1.2-5_mapping_Phypa_72610
 Pp1s37_351V6.1	cosmoss		2010-05-05 18:36:27	autoinhibited calcium atpase	cosmoss|blast2go_V1.6
-Pp1s37_353V6.1	cosmoss		2010-05-05 18:36:27	mads box	cosmoss|blast2go_V1.6
+Pp1s37_353V6.1	barker		2015-10-27 00:04:27	type I mads box
 Pp1s37_354V6.1	cosmoss		2010-05-05 18:36:27	e2f-associated phosphoprotein	cosmoss|blast2go_V1.6
 Pp1s37_355V6.1	cosmoss		2013-02-21 17:33:57	endo-beta-1,4-glucanase	cosmoss|blast2go_V1.6
 Pp1s37_35V6.1	cosmoss		2010-05-05 18:36:27	hydrolyzing o-glycosyl	cosmoss|blast2go_V1.6
@@ -22912,7 +22913,7 @@ Pp1s81_198V6.3	cosmoss		2010-05-05 18:36:27	pp2ac-2 - phosphatase 2a isoform 2 b
 Pp1s81_198V6.4	cosmoss		2010-05-05 18:36:27	pp2ac-2 - phosphatase 2a isoform 2 belonging to family 2	cosmoss|blast2go_V1.6
 Pp1s81_200V6.1	cosmoss		2013-02-21 17:33:57	FCAALL.9; glycosyl transferase family 20 protein / trehalose-phosphatase family protein	cosmoss|V1.2-5_mapping_Phypa_212652
 Pp1s81_201V6.1	cosmoss		2010-05-05 18:36:27	mitochondrial transcription termination factor-related mterf-related	cosmoss|blast2go_V1.6
-Pp1s81_202V6.1	cosmoss		2010-05-05 18:36:27	mads box	cosmoss|blast2go_V1.6
+Pp1s81_202V6.1	barker		2015-10-26 23:59:40	m alpha mads box
 Pp1s81_204V6.1	cosmoss		2009-07-17 11:26:07	contains EST AU095933(S11713) unknown protein [Oryza sativa (japonica cultivar-group)]	cosmoss|V1.2-5_mapping_Phypa_44424
 Pp1s81_205V6.1	cosmoss		2009-07-17 11:26:07	contains EST AU095933(S11713) unknown protein [Oryza sativa (japonica cultivar-group)]	cosmoss|V1.2-5_mapping_Phypa_44424
 Pp1s81_209V6.1	cosmoss		2009-07-17 11:23:47	MQN23.11; expressed protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_165052
