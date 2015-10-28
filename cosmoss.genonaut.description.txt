@@ -14475,6 +14475,7 @@ Pp1s33_342V6.1	cosmoss		2010-05-05 18:36:27	transport protein	cosmoss|blast2go_V
 Pp1s33_350V6.1	cosmoss		2010-05-05 18:36:27	bifunctional coenzyme a synthase	cosmoss|blast2go_V1.6
 Pp1s33_351V6.1	cosmoss		2009-07-17 11:23:35	F2N1.36; C2 domain-containing protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_161520
 Pp1s33_351V6.2	cosmoss		2009-07-17 11:23:35	F2N1.36; C2 domain-containing protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_161520
+Pp1s33_355V6.1	barker		2015-10-27 22:03:08	KNOX Pseudogene
 Pp1s33_357V6.1	cosmoss		2010-05-05 18:36:27	knotted1-like homeobox transcription factor mkn2	cosmoss|blast2go_V1.6
 Pp1s33_361V6.1	cosmoss		2009-07-17 11:23:35	MDC8.14; C2 domain-containing protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_161521
 Pp1s33_361V6.2	cosmoss		2009-07-17 11:23:35	MDC8.14; C2 domain-containing protein [Arabidopsis thaliana]	cosmoss|V1.2-5_mapping_Phypa_161521
