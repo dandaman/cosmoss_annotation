@@ -1082,6 +1082,7 @@ Pp1s518_10V6.1	cosmoss		2009-06-30 12:45:29	ABCC15	cosmoss|V1.2-5_mapping_Phypa_
 Pp1s518_9V6.1	cosmoss		2009-06-30 12:48:41	HON1502	cosmoss|V1.2-5_mapping_Phypa_101993
 Pp1s51_114V6.1	cosmoss		2009-06-30 12:34:18	ROP4	cosmoss|V1.2-5_mapping_Phypa_181629
 Pp1s51_133V6.1	cosmoss		2009-06-30 12:35:33	SWDC1502	cosmoss|V1.2-5_mapping_Phypa_56981
+Pp1s51_180V6.1	lang	381	2015-12-05 12:29:54	SMG1
 Pp1s51_220V6.1	zimmer	274,228	2012-01-09 10:45:45	RAD50
 Pp1s51_303V6.1	oesterle		2012-09-19 22:26:33	LHCB2N2.1
 Pp1s51_334V6.1	cosmoss		2009-06-30 12:50:32	RABC13	cosmoss|V1.2-5_mapping_Phypa_181727
